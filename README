@@ -1,0 +1,3 @@
+A primitive implementation of constituency parser is available.
+
+Performance need to be improved immensely. It takes about 2 minutes approximately for 50 trees.
